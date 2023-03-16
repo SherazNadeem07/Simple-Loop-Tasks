@@ -1,0 +1,16 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(73, 73, 73);
+}
+
+h1{
+    text-align: center;
+    text-transform: capitalize;
+    color: yellow;
+
+}
+
+hr{
+    margin: 30px;
+}
